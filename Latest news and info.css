@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(to right,#f6fcef ,#e3ebd6,#e9f6d8),
+    url("watermelon/watermelon\ background.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-blend-mode: multiply;
+    width: 100%; height: 100%;
+    min-height: 100vh;
+    background-attachment: fixed;
+    margin:0;
+    padding:0;
+}
+.dm-serif-text-regular {
+    font-family: "DM Serif Text", serif;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(59, 101, 81);
+    font-size: 250%;
+  }
+  
+  .dm-serif-text-regular-italic{
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: italic;
+  }

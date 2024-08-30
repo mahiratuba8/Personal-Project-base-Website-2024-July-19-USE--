@@ -1,0 +1,81 @@
+body{
+    background: linear-gradient(to right,#d8e2ca ,#c9d7b6,#b3c3a0),
+    url("watermelon/watermelon\ background.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-blend-mode: multiply;
+    width: 100%; height: 100%;
+    min-height: 100vh;
+    background-attachment: fixed;
+    margin:0;
+    padding:0;
+}
+
+    
+p {
+    color:rgb(65, 65, 59);
+}
+.container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:10px;
+}
+#signup{
+position: fixed;
+    top: 0;
+    right: 20px;
+    width: 300px;
+width: 40px;
+height: 20px;
+background-color: #6fa7a2; 
+border: 4px transparent black;
+border-radius: 10%;
+padding-left:5px;
+box-shadow: 2px 2px rgb(241, 137, 137);
+}
+#login{
+    position: fixed;
+    top: 0;
+    right: 20px;
+    width: 300px;
+width: 40px;
+height: 20px;
+background-color: #6fa7a2; 
+border: 4px transparent black;
+border-radius: 10%;
+margin-right:60px;
+padding-left:10px;
+box-shadow: 2px 2px rgb(241, 137, 137);
+}
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .grey-qo-regular {
+    font-family: "Grey Qo", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+#list:hover{
+    font-size:150%;
+    }
+.Welcome{
+    border:0.95px solid transparent;
+    padding-right: 100px;
+    margin-right: 60px;
+}
+.isgr{
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+.questions{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #223231;
+    font-size: smaller;
+}
+.heading{
+    margin-left:19%;
+}
+
